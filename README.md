@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Carter</h1>
-<h3 align="center">Software Engineer - Full Stack (React, Go, JavaScript, SCSS, PostgreSQL, and Git)</h3>
+<h3 align="center">Software Engineer - Full Stack (React, Go, PostgreSQL, JavaScript, HTML, CSS, SCSS, and Git)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvncrtr&label=Profile%20views&color=0e75b6&style=flat" alt="kvncrtr" /> </p>
 
