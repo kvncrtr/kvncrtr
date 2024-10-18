@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kevin Carter</h1>
-<h3 align="center">Software Engineer - Full Stack (React, Go, PostgreSQL, JavaScript, HTML, CSS, SCSS, and Git)</h3>
+<h3 align="center">Software Engineer - Full Stack (React, Go, JavaScript, SCSS, PostgreSQL, and Git)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvncrtr&label=Profile%20views&color=0e75b6&style=flat" alt="kvncrtr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kvncrtrr" target="blank"><img src="https://img.shields.io/twitter/follow/kvncrtrr?logo=twitter&style=for-the-badge" alt="kvncrtrr" /></a> </p>
 
-- 🔭 I’m currently working on [Vendex](https://vendex-production.up.railway.app/)
+- 🔭 I’m currently working on [Ample Guide](https://github.com/kvncrtr/ample-guide-front-end)
 
 - 🌱 I’m currently learning **Golang and PostgreSQL.**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **console.logkevin@gmail.com**
 
-- 📄 Most recent version of my resume [https://drive.google.com/file/d/1IyjJWnJQ2JvlUn5hSQTWV0JZoKA4Xvmq/view?usp=sharing](https://drive.google.com/file/d/1IyjJWnJQ2JvlUn5hSQTWV0JZoKA4Xvmq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IyjJWnJQ2JvlUn5hSQTWV0JZoKA4Xvmq/view?usp=sharing](https://drive.google.com/file/d/1IyjJWnJQ2JvlUn5hSQTWV0JZoKA4Xvmq/view?usp=sharing)
 
 - ⚡ Fun fact **I worked in the music industry**
 
