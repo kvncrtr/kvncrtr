@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ample Guide](https://github.com/kvncrtr/ample-guide-front-end)
 
-- 🌱 I’m currently learning **Golang and PostgreSQL.**
+- 🌱 I’m currently learning **AI and CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://kvncrtr.github.io/portfolio/](https://kvncrtr.github.io/portfolio/)
 
