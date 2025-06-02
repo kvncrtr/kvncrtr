@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LBLC(https://github.com/kvncrtr/lblc-frontend)
 
-- 🌱 I’m currently learning **AI and CI/CD**
+- 🌱 I’m currently learning **UI and End to End Development**
 
 - 👨‍💻 All of my projects are available at [https://kevins-portfolio-2025.netlify.app/](https://kevins-portfolio-2025.netlify.app/)
 
