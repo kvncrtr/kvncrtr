@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kvncrtrr" target="blank"><img src="https://img.shields.io/twitter/follow/kvncrtrr?logo=twitter&style=for-the-badge" alt="kvncrtrr" /></a> </p>
 
-- 🔭 I’m currently working on [LBLC(https://github.com/kvncrtr/lblc-frontend)
+- 🔭 I’m currently working on [LBLC](https://github.com/kvncrtr/lblc-frontend)
 
 - 🌱 I’m currently learning **UI and End to End Development**
 
