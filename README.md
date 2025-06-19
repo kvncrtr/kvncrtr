@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **console.logkevin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_OVWXX1E_aBiXWkmtDvMM5psbaxDq0vi/view?usp=drive_link](https://drive.google.com/file/d/1_OVWXX1E_aBiXWkmtDvMM5psbaxDq0vi/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gQ5FRM6vpqMtpwpciGXnSyF3mk-N5qkD/view?usp=sharing](https://drive.google.com/file/d/1gQ5FRM6vpqMtpwpciGXnSyF3mk-N5qkD/view?usp=sharing)
 
 - ⚡ Fun fact **I worked in the music industry**
 
